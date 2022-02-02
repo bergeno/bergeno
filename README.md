@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on pokemon-game
 - 🌱 I’m currently learning c, was and infosec
 - 👯 I’m looking to collaborate on free projects and anything related to infosec and os
-- 💬 Ask me about linux, java, python and network
+- 💬 Ask me about linux, java, python and networking
 - 📫 How to reach me: bergeno#6690
 - 😄 Pronouns: he/him
 
